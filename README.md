@@ -3,7 +3,6 @@
 # 🍕 Pizzaria do João
 
 <div align="center">
-  <img src="img/pizza.svg" alt="Logo Pizzaria" width="100"/>
   <p><b>Um sistema web para gerenciamento de pedidos de pizza.</b></p>
 </div>
 
