@@ -25,6 +25,13 @@ A Pizzaria do João é um projeto prático desenvolvido durante estudo do curso 
 2. Dashboard de Gerenciamento (`dashboard.php`): Painel administrativo onde é possível visualizar todos os pedidos realizados, alterar o status: *Em produção*, *Em entrega*, *Concluído*) ou remover pedidos finalizados.
 
 ---
+<img width="1366" height="1195" alt="screencapture_1788199998432" src="https://github.com/user-attachments/assets/1de4c565-000f-401c-a6c0-28cfd9278ff3" />
+
+<img width="1366" height="780" alt="screencapture_1788200031517" src="https://github.com/user-attachments/assets/dd48254f-ead1-45d6-bd3c-d7bcb9fd69f5" />
+
+
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
